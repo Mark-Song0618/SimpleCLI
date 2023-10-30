@@ -3,7 +3,7 @@
 	Although CPP is more suitable for cli(because of it's Polymorphism, we can easily create different commands), C is more
 	light weight and more simple.
 	Frankly speeking, this cli lib is neither easy to use, nor reliable. I'm a c language beginer and finished it in a few days.
-	I hope you can help to improve it.
+	I'll appreciate it if you help to improve it.
 	
 	Regards
 	Mark Song
